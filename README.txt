@@ -1,5 +1,10 @@
 == ThinkSub2_LoRA_Tool ==
 
+
+👇🏻Youtube Link
+[![Watch the video](https://img.youtube.com/vi/FoOLdqJKcwU/maxresdefault.jpg)](https://youtu.be/FoOLdqJKcwU)
+
+
 🎙 Personal Whisper Model Builder
 (LoRA → large-v3-turbo 병합 → faster-whisper 모델 자동 생성)
 📢 읽어주세요
