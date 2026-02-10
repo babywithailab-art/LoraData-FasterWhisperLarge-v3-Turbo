@@ -1,0 +1,18 @@
+# build outputs
+dist/
+build/
+lora-output/
+projects/
+tests/
+*.zip
+*.pkg
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# whisper / models (권장: 따로 다운로드 or LFS)
+models/
+*.bin

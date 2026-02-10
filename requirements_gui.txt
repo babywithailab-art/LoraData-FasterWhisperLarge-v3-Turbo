@@ -1,0 +1,10 @@
+PySide6
+torch
+torchaudio
+transformers
+peft
+accelerate
+bitsandbytes
+ctranslate2
+datasets
+sentencepiece

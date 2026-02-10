@@ -1,0 +1,1 @@
+License for PySide6 can be found at: https://raw.githubusercontent.com/qt/pyside-pyside-setup/dev/LICENSE.LGPL3

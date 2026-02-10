@@ -1,0 +1,13 @@
+License Summary for ThinkSub2 LoRA Tools
+========================================
+
+PySide6: See PySide6_LICENSE_LINK.txt
+Torch: Torch_LICENSE.txt
+Transformers: Transformers_LICENSE.txt
+Peft: Peft_LICENSE.txt
+CTranslate2: CTranslate2_LICENSE.txt
+SentencePiece: SentencePiece_LICENSE.txt
+HuggingFace_Hub: HuggingFace_Hub_LICENSE.txt
+BitsAndBytes: BitsAndBytes_LICENSE.txt
+Accelerate: Accelerate_LICENSE.txt
+Requests: Requests_LICENSE.txt
